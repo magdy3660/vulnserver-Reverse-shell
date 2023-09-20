@@ -1,6 +1,5 @@
 # vulnserver-Reverse-shell
- usage:
- 
+### usage information
  Open a terminal and setup a netcat to listen on port 4444
  
  `nc -nvlp 4444`
